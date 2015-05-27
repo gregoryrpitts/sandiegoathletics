@@ -1,0 +1,4 @@
+[submodule "sites/all/modules/checklistapi"]
+	path = sites/all/modules/checklistapi
+	url = http://git.drupal.org/project/checklistapi.git
+	branch = 7.x-1.x
