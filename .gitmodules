@@ -2,3 +2,7 @@
 	path = sites/all/modules/checklistapi
 	url = http://git.drupal.org/project/checklistapi.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/module_filter"]
+	path = sites/all/modules/module_filter
+	url = http://git.drupal.org/project/module_filter.git
+	branch = master
