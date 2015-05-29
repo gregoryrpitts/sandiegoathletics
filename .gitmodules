@@ -10,3 +10,11 @@
 	path = sites/all/modules/views
 	url = http://git.drupal.org/project/views.git
 	branch = 7.x-3.x
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/panels"]
+	path = sites/all/modules/panels
+	url = http://git.drupal.org/project/panels.git
+	branch = 7.x-3.x
