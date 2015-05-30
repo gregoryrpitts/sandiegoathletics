@@ -58,3 +58,7 @@
 	path = sites/all/modules/token
 	url = http://git.drupal.org/project/token.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/metatag"]
+	path = sites/all/modules/metatag
+	url = http://git.drupal.org/project/metatag.git
+	branch = 7.x-1.x
