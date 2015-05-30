@@ -42,3 +42,7 @@
 	path = sites/all/modules/drupal_sync
 	url = http://git.drupal.org/project/drupal_sync.git
 	branch = master
+[submodule "sites/all/modules/ds"]
+	path = sites/all/modules/ds
+	url = http://git.drupal.org/project/ds.git
+	branch = 7.x-2.x
