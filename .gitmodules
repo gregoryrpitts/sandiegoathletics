@@ -22,3 +22,23 @@
 	path = sites/all/modules/advanced_help
 	url = http://git.drupal.org/project/advanced_help.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/scheduler"]
+	path = sites/all/modules/scheduler
+	url = http://git.drupal.org/project/scheduler.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/date"]
+	path = sites/all/modules/date
+	url = http://git.drupal.org/project/date.git
+	branch = 7.x-2.x
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+	branch = 7.x-3.x
+[submodule "sites/all/modules/entity"]
+	path = sites/all/modules/entity
+	url = http://git.drupal.org/project/entity.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/drupal_sync"]
+	path = sites/all/modules/drupal_sync
+	url = http://git.drupal.org/project/drupal_sync.git
+	branch = master
