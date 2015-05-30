@@ -78,3 +78,7 @@
 	path = sites/all/modules/ckeditor
 	url = http://git.drupal.org/project/ckeditor.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/imce"]
+	path = sites/all/modules/imce
+	url = http://git.drupal.org/project/imce.git
+	branch = 7.x-1.x
