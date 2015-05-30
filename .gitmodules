@@ -18,3 +18,7 @@
 	path = sites/all/modules/panels
 	url = http://git.drupal.org/project/panels.git
 	branch = 7.x-3.x
+[submodule "sites/all/modules/advanced_help"]
+	path = sites/all/modules/advanced_help
+	url = http://git.drupal.org/project/advanced_help.git
+	branch = 7.x-1.x
