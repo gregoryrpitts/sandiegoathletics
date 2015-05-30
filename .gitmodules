@@ -46,3 +46,7 @@
 	path = sites/all/modules/ds
 	url = http://git.drupal.org/project/ds.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/webform"]
+	path = sites/all/modules/webform
+	url = http://git.drupal.org/project/webform.git
+	branch = 7.x-4.x
