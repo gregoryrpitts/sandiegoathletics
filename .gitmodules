@@ -82,3 +82,7 @@
 	path = sites/all/modules/imce
 	url = http://git.drupal.org/project/imce.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/nodeorder"]
+	path = sites/all/modules/nodeorder
+	url = http://git.drupal.org/project/nodeorder.git
+	branch = 7.x-1.x
