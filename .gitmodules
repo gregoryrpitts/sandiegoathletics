@@ -62,3 +62,7 @@
 	path = sites/all/modules/metatag
 	url = http://git.drupal.org/project/metatag.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/seo_checklist"]
+	path = sites/all/modules/seo_checklist
+	url = http://git.drupal.org/project/seo_checklist.git
+	branch = 7.x-4.x
