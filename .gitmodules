@@ -66,3 +66,7 @@
 	path = sites/all/modules/seo_checklist
 	url = http://git.drupal.org/project/seo_checklist.git
 	branch = 7.x-4.x
+[submodule "sites/all/modules/context"]
+	path = sites/all/modules/context
+	url = http://git.drupal.org/project/context.git
+	branch = 7.x-3.x
