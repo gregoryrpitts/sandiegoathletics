@@ -70,3 +70,7 @@
 	path = sites/all/modules/context
 	url = http://git.drupal.org/project/context.git
 	branch = 7.x-3.x
+[submodule "sites/all/modules/exclude_node_title"]
+	path = sites/all/modules/exclude_node_title
+	url = http://git.drupal.org/project/exclude_node_title.git
+	branch = 7.x-1.x
