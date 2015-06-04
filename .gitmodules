@@ -90,3 +90,7 @@
 	path = sites/all/themes/corporateclean
 	url = http://git.drupal.org/project/corporateclean.git
 	branch = master
+[submodule "sites/all/modules/content_access"]
+	path = sites/all/modules/content_access
+	url = http://git.drupal.org/project/content_access.git
+	branch = master
