@@ -94,3 +94,7 @@
 	path = sites/all/modules/content_access
 	url = http://git.drupal.org/project/content_access.git
 	branch = master
+[submodule "sites/all/modules/responsive_preview"]
+	path = sites/all/modules/responsive_preview
+	url = http://git.drupal.org/project/responsive_preview.git
+	branch = 8.x-1.x
