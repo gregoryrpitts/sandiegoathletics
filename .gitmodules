@@ -44,8 +44,8 @@
 	branch = master
 [submodule "sites/all/modules/ds"]
 	path = sites/all/modules/ds
-	url = http://git.drupal.org/project/ds.git
-	branch = 7.x-2.x
+	url = https://github.com/gregoryrpitts/ds.git
+	branch = gpitts-sda
 [submodule "sites/all/modules/webform"]
 	path = sites/all/modules/webform
 	url = http://git.drupal.org/project/webform.git
@@ -96,10 +96,6 @@
 [submodule "sites/all/modules/ckeditor"]
 	path = sites/all/modules/ckeditor
 	url = https://github.com/gregoryrpitts/ckeditor.git
-[submodule "sites/all/modules/layout"]
-	path = sites/all/modules/layout
-	url = http://git.drupal.org/project/layout.git
-	branch = 7.x-1.x
 [submodule "sites/all/modules/gridbuilder"]
 	path = sites/all/modules/gridbuilder
 	url = http://git.drupal.org/project/gridbuilder.git
@@ -119,3 +115,6 @@
 	path = sites/all/modules/libraries
 	url = http://git.drupal.org/project/libraries.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/layout"]
+	path = sites/all/modules/layout
+	url = https://github.com/gregoryrpitts/Layout.git
