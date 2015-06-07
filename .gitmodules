@@ -88,8 +88,8 @@
 	branch = 7.x-1.x
 [submodule "sites/all/themes/corporateclean"]
 	path = sites/all/themes/corporateclean
-	url = http://git.drupal.org/project/corporateclean.git
-	branch = master
+	url = https://github.com/gregoryrpitts/corporateclean.git
+	branch = gpitts-sda
 [submodule "sites/all/modules/content_access"]
 	path = sites/all/modules/content_access
 	url = http://git.drupal.org/project/content_access.git
