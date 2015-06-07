@@ -96,3 +96,22 @@
 [submodule "sites/all/modules/ckeditor"]
 	path = sites/all/modules/ckeditor
 	url = https://github.com/gregoryrpitts/ckeditor.git
+[submodule "sites/all/modules/layout"]
+	path = sites/all/modules/layout
+	url = http://git.drupal.org/project/layout.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/gridbuilder"]
+	path = sites/all/modules/gridbuilder
+	url = http://git.drupal.org/project/gridbuilder.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/jquery_update"]
+	path = sites/all/modules/jquery_update
+	url = http://git.drupal.org/project/jquery_update.git
+	branch = 7.x-3.x
+[submodule "sites/all/modules/json2"]
+	path = sites/all/modules/json2
+	url = http://git.drupal.org/project/json2.git
+	branch = 7.x-1.x
+[submodule "sites/all/libraries/json2"]
+	path = sites/all/libraries/json2
+	url = https://github.com/douglascrockford/JSON-js.git
