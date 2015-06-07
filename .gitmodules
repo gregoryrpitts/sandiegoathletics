@@ -54,10 +54,6 @@
 	path = sites/all/modules/pathauto
 	url = http://git.drupal.org/project/pathauto.git
 	branch = 7.x-1.x
-[submodule "sites/all/modules/token"]
-	path = sites/all/modules/token
-	url = http://git.drupal.org/project/token.git
-	branch = 7.x-1.x
 [submodule "sites/all/modules/metatag"]
 	path = sites/all/modules/metatag
 	url = http://git.drupal.org/project/metatag.git
@@ -98,3 +94,6 @@
 	path = sites/all/modules/responsive_preview
 	url = http://git.drupal.org/project/responsive_preview.git
 	branch = 8.x-1.x
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = https://github.com/gregoryrpitts/Token.git
