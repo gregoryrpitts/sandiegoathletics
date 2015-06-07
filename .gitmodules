@@ -119,5 +119,5 @@
 	branch = 7.x-2.x
 [submodule "sites/all/modules/layout"]
 	path = sites/all/modules/layout
-    url = https://github.com/gregoryrpitts/Layout.giti
+    url = https://github.com/gregoryrpitts/Layout.git
     branch = gpitts-sda
