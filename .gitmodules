@@ -92,10 +92,12 @@
 	branch = 8.x-1.x
 [submodule "sites/all/modules/token"]
 	path = sites/all/modules/token
-	url = https://github.com/gregoryrpitts/Token.git
+    url = https://github.com/gregoryrpitts/Token.git
+    branch = gpitts_sda
 [submodule "sites/all/modules/ckeditor"]
 	path = sites/all/modules/ckeditor
-	url = https://github.com/gregoryrpitts/ckeditor.git
+    url = https://github.com/gregoryrpitts/ckeditor.git
+    branch = gpitts_sda
 [submodule "sites/all/modules/gridbuilder"]
 	path = sites/all/modules/gridbuilder
 	url = http://git.drupal.org/project/gridbuilder.git
@@ -117,4 +119,5 @@
 	branch = 7.x-2.x
 [submodule "sites/all/modules/layout"]
 	path = sites/all/modules/layout
-	url = https://github.com/gregoryrpitts/Layout.git
+    url = https://github.com/gregoryrpitts/Layout.giti
+    branch = gpitts-sda
