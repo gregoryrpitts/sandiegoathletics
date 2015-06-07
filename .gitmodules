@@ -115,3 +115,7 @@
 [submodule "sites/all/libraries/json2"]
 	path = sites/all/libraries/json2
 	url = https://github.com/douglascrockford/JSON-js.git
+[submodule "sites/all/modules/libraries"]
+	path = sites/all/modules/libraries
+	url = http://git.drupal.org/project/libraries.git
+	branch = 7.x-2.x
