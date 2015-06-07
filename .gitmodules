@@ -70,10 +70,6 @@
 	path = sites/all/modules/exclude_node_title
 	url = http://git.drupal.org/project/exclude_node_title.git
 	branch = 7.x-1.x
-[submodule "sites/all/modules/ckeditor"]
-	path = sites/all/modules/ckeditor
-	url = http://git.drupal.org/project/ckeditor.git
-	branch = 7.x-1.x
 [submodule "sites/all/modules/imce"]
 	path = sites/all/modules/imce
 	url = http://git.drupal.org/project/imce.git
@@ -97,3 +93,6 @@
 [submodule "sites/all/modules/token"]
 	path = sites/all/modules/token
 	url = https://github.com/gregoryrpitts/Token.git
+[submodule "sites/all/modules/ckeditor"]
+	path = sites/all/modules/ckeditor
+	url = https://github.com/gregoryrpitts/ckeditor.git
