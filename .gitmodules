@@ -105,10 +105,6 @@
 [submodule "sites/all/libraries/json2"]
 	path = sites/all/libraries/json2
 	url = https://github.com/douglascrockford/JSON-js.git
-[submodule "sites/all/modules/libraries"]
-	path = sites/all/modules/libraries
-	url = http://git.drupal.org/project/libraries.git
-	branch = 7.x-2.x
 [submodule "sites/all/modules/layout"]
 	path = sites/all/modules/layout
     url = https://github.com/gregoryrpitts/Layout.git
@@ -139,3 +135,7 @@
 [submodule "sites/all/libraries/backbone"]
 	path = sites/all/libraries/backbone
 	url = https://github.com/jashkenas/backbone.git
+[submodule "sites/all/modules/libraries"]
+	path = sites/all/modules/libraries
+    url = https://github.com/gregoryrpitts/libraries.git
+    branch = gpitts-sda
