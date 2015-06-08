@@ -121,3 +121,7 @@
 	path = sites/all/modules/layout
     url = https://github.com/gregoryrpitts/Layout.git
     branch = gpitts-sda
+[submodule "sites/all/modules/panelizer"]
+	path = sites/all/modules/panelizer
+	url = http://git.drupal.org/project/panelizer.git
+	branch = 7.x-3.x
