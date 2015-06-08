@@ -125,3 +125,17 @@
 	path = sites/all/modules/responsive_preview
 	url = http://git.drupal.org/project/responsive_preview.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/underscore"]
+	path = sites/all/modules/underscore
+	url = http://git.drupal.org/project/underscore.git
+	branch = 7.x-2.x
+[submodule "sites/all/modules/backbone"]
+	path = sites/all/modules/backbone
+	url = http://git.drupal.org/project/backbone.git
+	branch = 7.x-1.x
+[submodule "sites/all/libraries/underscore"]
+	path = sites/all/libraries/underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "sites/all/libraries/backbone"]
+	path = sites/all/libraries/backbone
+	url = https://github.com/jashkenas/backbone.git
