@@ -147,3 +147,7 @@
 	path = sites/all/modules/webform_constant_contact
 	url = http://git.drupal.org/project/webform_constant_contact.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/node_field"]
+	path = sites/all/modules/node_field
+	url = http://git.drupal.org/project/node_field.git
+	branch = 7.x-2.x
