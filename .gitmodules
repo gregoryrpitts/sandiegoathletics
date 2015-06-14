@@ -8,8 +8,8 @@
 	branch = master
 [submodule "sites/all/modules/views"]
 	path = sites/all/modules/views
-	url = http://git.drupal.org/project/views.git
-	branch = 7.x-3.x
+	url = https://github.com/gregoryrpitts/views.git
+	branch = gpitts-sda
 [submodule "sites/all/modules/ctools"]
 	path = sites/all/modules/ctools
 	url = http://git.drupal.org/project/ctools.git
