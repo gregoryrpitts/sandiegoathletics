@@ -167,3 +167,7 @@
 	path = sites/all/modules/views_responsive_grid
 	url = http://git.drupal.org/project/views_responsive_grid.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/semanticviews"]
+	path = sites/all/modules/semanticviews
+	url = http://git.drupal.org/project/semanticviews.git
+	branch = 7.x-1.x
