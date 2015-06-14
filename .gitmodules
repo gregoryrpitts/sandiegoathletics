@@ -155,3 +155,15 @@
 	path = sites/all/modules/node_embed
 	url = http://git.drupal.org/project/node_embed.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/token_filter"]
+	path = sites/all/modules/token_filter
+	url = http://git.drupal.org/project/token_filter.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/token_insert"]
+	path = sites/all/modules/token_insert
+	url = http://git.drupal.org/project/token_insert.git
+	branch = 7.x-2.x
+[submodule "sites/all/modules/views_responsive_grid"]
+	path = sites/all/modules/views_responsive_grid
+	url = http://git.drupal.org/project/views_responsive_grid.git
+	branch = 7.x-1.x
