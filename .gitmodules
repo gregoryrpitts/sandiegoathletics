@@ -141,8 +141,8 @@
     branch = gpitts-sda
 [submodule "sites/all/modules/constant_contact"]
 	path = sites/all/modules/constant_contact
-	url = http://git.drupal.org/project/constant_contact.git
-	branch = 7.x-3.x
+	url = https://github.com/gregoryrpitts/constant-contact.git
+	branch = gpitts-sda
 [submodule "sites/all/modules/webform_constant_contact"]
 	path = sites/all/modules/webform_constant_contact
 	url = http://git.drupal.org/project/webform_constant_contact.git
