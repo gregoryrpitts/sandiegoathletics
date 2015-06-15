@@ -171,3 +171,7 @@
 	path = sites/all/modules/semanticviews
 	url = http://git.drupal.org/project/semanticviews.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/video_embed_field"]
+	path = sites/all/modules/video_embed_field
+	url = http://git.drupal.org/project/video_embed_field.git
+	branch = 7.x-2.x
