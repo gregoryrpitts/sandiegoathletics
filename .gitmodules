@@ -175,3 +175,7 @@
 	path = sites/all/modules/video_embed_field
 	url = http://git.drupal.org/project/video_embed_field.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/entityreference"]
+	path = sites/all/modules/entityreference
+	url = http://git.drupal.org/project/entityreference.git
+	branch = 7.x-1.x
