@@ -188,5 +188,5 @@
 	branch = 7.x-2.x
 [submodule "sites/all/modules/filefield_paths"]
 	path = sites/all/modules/filefield_paths
-	url = http://git.drupal.org/project/filefield_paths.git
-	branch = 7.x-1.x
+	url = https://github.com/gregoryrpitts/FileField_Paths.git
+	branch = gpitts-sda
