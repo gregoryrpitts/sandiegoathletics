@@ -190,3 +190,7 @@
 	path = sites/all/modules/filefield_paths
 	url = https://github.com/gregoryrpitts/FileField_Paths.git
 	branch = gpitts-sda
+[submodule "sites/all/modules/views_acordian"]
+	path = sites/all/modules/views_acordian
+	url = http://git.drupal.org/project/views_accordion.git
+	branch = 7.x-1.x
