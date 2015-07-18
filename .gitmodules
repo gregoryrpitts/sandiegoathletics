@@ -202,3 +202,11 @@
 	path = sites/all/modules/block_class
 	url = http://git.drupal.org/project/block_class.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/webform_phone"]
+	path = sites/all/modules/webform_phone
+	url = http://git.drupal.org/project/webform_phone.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/webform_reply_to"]
+	path = sites/all/modules/webform_reply_to
+	url = http://git.drupal.org/project/webform_reply_to.git
+	branch = 7.x-2.x
