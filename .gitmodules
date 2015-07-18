@@ -210,3 +210,11 @@
 	path = sites/all/modules/webform_reply_to
 	url = http://git.drupal.org/project/webform_reply_to.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/redirect"]
+	path = sites/all/modules/redirect
+	url = http://git.drupal.org/project/redirect.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/match_redirect"]
+	path = sites/all/modules/match_redirect
+	url = http://git.drupal.org/project/match_redirect.git
+	branch = 7.x-1.x
