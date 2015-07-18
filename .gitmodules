@@ -218,3 +218,7 @@
 	path = sites/all/modules/match_redirect
 	url = http://git.drupal.org/project/match_redirect.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/phone"]
+	path = sites/all/modules/phone
+	url = http://git.drupal.org/project/phone.git
+	branch = 7.x-1.x
