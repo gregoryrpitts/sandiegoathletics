@@ -220,5 +220,5 @@
 	branch = 7.x-1.x
 [submodule "sites/all/modules/phone"]
 	path = sites/all/modules/phone
-	url = http://git.drupal.org/project/phone.git
-	branch = 7.x-1.x
+	url = https://github.com/gregoryrpitts/phone.git
+	branch = 7.x-2.x
