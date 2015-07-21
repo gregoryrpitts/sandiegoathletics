@@ -222,3 +222,11 @@
 	path = sites/all/modules/phone
 	url = https://github.com/gregoryrpitts/phone.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/location"]
+	path = sites/all/modules/location
+	url = http://git.drupal.org/project/location.git
+	branch = 7.x-3.x
+[submodule "sites/all/modules/gmap"]
+	path = sites/all/modules/gmap
+	url = http://git.drupal.org/project/gmap.git
+	branch = 7.x-2.x
