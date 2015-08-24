@@ -230,3 +230,19 @@
 	path = sites/all/modules/gmap
 	url = http://git.drupal.org/project/gmap.git
 	branch = 7.x-2.x
+[submodule "sharebar"]
+	path = sharebar
+	url = http://git.drupal.org/project/sharebar.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/sharebar"]
+	path = sites/all/modules/sharebar
+	url = http://git.drupal.org/project/sharebar.git
+	branch = 7.x-1.x
+[submodule "google_analytics"]
+	path = google_analytics
+	url = http://git.drupal.org/project/google_analytics.git
+	branch = 7.x-2.x
+[submodule "sites/all/modules/google_analytics"]
+	path = sites/all/modules/google_analytics
+	url = http://git.drupal.org/project/google_analytics.git
+	branch = 7.x-2.x
