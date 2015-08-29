@@ -250,3 +250,9 @@
 	path = sites/all/modules/rabbit_hole
 	url = http://git.drupal.org/project/rabbit_hole.git
 	branch = 7.x-2.x
+[submodule "sites/all/modules/twitter_block"]
+	path = sites/all/modules/twitter_block
+	url = http://git.drupal.org/project/twitter_block.git
+[submodule "sites/all/modules/agenda"]
+	path = sites/all/modules/agenda
+	url = http://git.drupal.org/project/agenda.git
