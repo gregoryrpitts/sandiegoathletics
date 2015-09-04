@@ -256,3 +256,7 @@
 [submodule "sites/all/modules/agenda"]
 	path = sites/all/modules/agenda
 	url = http://git.drupal.org/project/agenda.git
+[submodule "sites/all/modules/touch_icons"]
+	path = sites/all/modules/touch_icons
+	url = http://git.drupal.org/project/touch_icons.git
+	branch = 7.x-1.x
