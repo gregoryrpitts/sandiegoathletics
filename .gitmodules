@@ -260,3 +260,11 @@
 	path = sites/all/modules/touch_icons
 	url = http://git.drupal.org/project/touch_icons.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/colorbox"]
+	path = sites/all/modules/colorbox
+	url = http://git.drupal.org/project/colorbox.git
+	branch = 7.x-2.x
+[submodule "sites/all/modules/insert"]
+	path = sites/all/modules/insert
+	url = http://git.drupal.org/project/insert.git
+	branch = 7.x-1.x
