@@ -268,3 +268,7 @@
 	path = sites/all/modules/insert
 	url = http://git.drupal.org/project/insert.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/smart_trim"]
+	path = sites/all/modules/smart_trim
+	url = http://git.drupal.org/project/smart_trim.git
+	branch = 7.x-1.x
