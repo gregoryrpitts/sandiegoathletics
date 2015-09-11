@@ -272,3 +272,7 @@
 	path = sites/all/modules/smart_trim
 	url = http://git.drupal.org/project/smart_trim.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/colorbox_node"]
+	path = sites/all/modules/colorbox_node
+	url = http://git.drupal.org/project/colorbox_node.git
+	branch = 7.x-3.x
