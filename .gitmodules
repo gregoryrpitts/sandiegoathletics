@@ -276,3 +276,7 @@
 	path = sites/all/modules/colorbox_node
 	url = http://git.drupal.org/project/colorbox_node.git
 	branch = 7.x-3.x
+[submodule "sites/all/modules/fb_likebox"]
+	path = sites/all/modules/fb_likebox
+	url = http://git.drupal.org/project/fb_likebox.git
+	branch = master
