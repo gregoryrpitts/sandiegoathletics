@@ -284,3 +284,7 @@
 	path = sites/all/modules/disable_term_node_listings
 	url = http://git.drupal.org/project/disable_term_node_listings.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/eva"]
+	path = sites/all/modules/eva
+	url = http://git.drupal.org/project/eva.git
+	branch = 7.x-1.x
