@@ -288,3 +288,7 @@
 	path = sites/all/modules/eva
 	url = http://git.drupal.org/project/eva.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/mini_panel_reference"]
+	path = sites/all/modules/mini_panel_reference
+	url = http://git.drupal.org/project/mini_panel_reference.git
+	branch = 7.x-1.x
