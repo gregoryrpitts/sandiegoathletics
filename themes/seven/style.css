@@ -702,6 +702,19 @@ select.form-select {
   background: #fff;
   color: #333;
 }
+select#edit-field-fitness-movement-reference-und {
+  height:400px;
+}
+select#edit-field-crossfit-movement-referenc-und {
+    height:400px;
+}
+select#edit-field-bodybuilding-movement-refe-und {
+    height:400px;
+}
+select#edit-field-olympic-movement-reference-und {
+    height:400px;
+}
+
 input.form-text:focus,
 input.form-file:focus,
 textarea.form-textarea:focus,
