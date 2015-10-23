@@ -714,6 +714,45 @@ select#edit-field-bodybuilding-movement-refe-und {
 select#edit-field-olympic-movement-reference-und {
     height:400px;
 }
+.page-node-add-single-workout .field-name-field-fitness-movement-reference {
+  width:25%;
+  float:left;
+}
+.page-node-add-single-workout .field-name-field-olympic-movement-reference {
+  width:25%;
+  float:left;
+}
+.page-node-add-single-workout .field-name-field-crossfit-movement-referenc {
+  width:25%;
+  float:left;
+}
+.page-node-add-single-workout .field-name-field-bodybuilding-movement-refe {
+  width:25%;
+  float:left;
+}
+.page-node-add-single-workout .field-name-field-title-to-display {
+  clear:both;
+}
+.page-node-edit.node-type-single-workout .field-name-field-fitness-movement-reference {
+  width:25%;
+  float:left;
+}
+.page-node-edit.node-type-single-workout .field-name-field-olympic-movement-reference {
+  width:25%;
+  float:left;
+}
+.page-node-edit.node-type-single-workout .field-name-field-crossfit-movement-referenc {
+  width:25%;
+  float:left;
+}
+.page-node-edit.node-type-single-workout .field-name-field-bodybuilding-movement-refe {
+  width:25%;
+  float:left;
+}
+.page-node-edit.node-type-single-workout .field-name-field-title-to-display {
+  clear:both;
+}
+
 
 input.form-text:focus,
 input.form-file:focus,
