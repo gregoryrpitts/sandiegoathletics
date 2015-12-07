@@ -292,3 +292,7 @@
 	path = sites/all/modules/mini_panel_reference
 	url = http://git.drupal.org/project/mini_panel_reference.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/disqus"]
+	path = sites/all/modules/disqus
+	url = http://git.drupal.org/project/disqus.git
+	branch = 7.x-1.x
