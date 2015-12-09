@@ -8,7 +8,7 @@
 	branch = master
 [submodule "sites/all/modules/views"]
 	path = sites/all/modules/views
-	url = https://github.com/gregoryrpitts/views.git
+	url = https://github.com/sdathletics/views.git
 	branch = gpitts-sda
 [submodule "sites/all/modules/ctools"]
 	path = sites/all/modules/ctools
@@ -44,7 +44,7 @@
 	branch = master
 [submodule "sites/all/modules/ds"]
 	path = sites/all/modules/ds
-	url = https://github.com/gregoryrpitts/ds.git
+	url = https://github.com/sdathletics/ds.git
 	branch = gpitts-sda
 [submodule "sites/all/modules/webform"]
 	path = sites/all/modules/webform
@@ -80,7 +80,7 @@
 	branch = 7.x-1.x
 [submodule "sites/all/themes/corporateclean"]
 	path = sites/all/themes/corporateclean
-	url = https://github.com/gregoryrpitts/corporateclean.git
+	url = https://github.com/sdathletics/corporateclean.git
 	branch = gpitts-sda
 [submodule "sites/all/modules/content_access"]
 	path = sites/all/modules/content_access
@@ -88,11 +88,11 @@
 	branch = master
 [submodule "sites/all/modules/token"]
 	path = sites/all/modules/token
-    url = https://github.com/gregoryrpitts/Token.git
+    url = https://github.com/sdathletics/Token.git
     branch = gpitts_sda
 [submodule "sites/all/modules/ckeditor"]
 	path = sites/all/modules/ckeditor
-    url = https://github.com/gregoryrpitts/ckeditor.git
+    url = https://github.com/sdathletics/ckeditor.git
     branch = gpitts_sda
 [submodule "sites/all/modules/gridbuilder"]
 	path = sites/all/modules/gridbuilder
@@ -107,7 +107,7 @@
 	url = https://github.com/douglascrockford/JSON-js.git
 [submodule "sites/all/modules/layout"]
 	path = sites/all/modules/layout
-    url = https://github.com/gregoryrpitts/Layout.git
+    url = https://github.com/sdathletics/Layout.git
     branch = gpitts-sda
 [submodule "sites/all/modules/panelizer"]
 	path = sites/all/modules/panelizer
@@ -137,11 +137,11 @@
 	url = https://github.com/jashkenas/backbone.git
 [submodule "sites/all/modules/libraries"]
 	path = sites/all/modules/libraries
-    url = https://github.com/gregoryrpitts/libraries.git
+    url = https://github.com/sdathletics/libraries.git
     branch = gpitts-sda
 [submodule "sites/all/modules/constant_contact"]
 	path = sites/all/modules/constant_contact
-	url = https://github.com/gregoryrpitts/constant-contact.git
+	url = https://github.com/sdathletics/constant-contact.git
 	branch = gpitts-sda
 [submodule "sites/all/modules/webform_constant_contact"]
 	path = sites/all/modules/webform_constant_contact
@@ -188,7 +188,7 @@
 	branch = 7.x-2.x
 [submodule "sites/all/modules/filefield_paths"]
 	path = sites/all/modules/filefield_paths
-	url = https://github.com/gregoryrpitts/FileField_Paths.git
+	url = https://github.com/sdathletics/FileField_Paths.git
 	branch = gpitts-sda
 [submodule "sites/all/modules/views_acordian"]
 	path = sites/all/modules/views_acordian
@@ -220,7 +220,7 @@
 	branch = 7.x-1.x
 [submodule "sites/all/modules/phone"]
 	path = sites/all/modules/phone
-	url = https://github.com/gregoryrpitts/phone.git
+	url = https://github.com/sdathletics/phone.git
 	branch = 7.x-2.x
 [submodule "sites/all/modules/location"]
 	path = sites/all/modules/location
